@@ -25,5 +25,7 @@ oauth2client
 Você pode instalar as dependências necessárias com o seguinte comando:
 
 bash
+
 Copiar código
-pip install -r requirements.txt
+
+## pip install -r requirements.txt
